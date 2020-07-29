@@ -1,0 +1,7 @@
+hm : heatmap center points
+wh : width, height box
+reg : offset for predictions
+
+Expected color order: BGR. Mean values: [104.04, 113.985, 119.85], scale values: [73.695, 69.87, 70.89].
+
+cat_spec_wh = True : for two object have the same center
